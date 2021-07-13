@@ -20,7 +20,7 @@ const config = {
   refresh_token: REFRESH_TOKEN,
   client_id: 'b7071e16-2981-40c2-aa05-a4ff66846aa2',
   client_secret: CLIENT_SECRET,
-//6O4A.2eXM_Uuc.~3mc-2-09XQuLen_z45u
+
   /**
    * Exactly the same `redirect_uri` in your Azure Application
    */
